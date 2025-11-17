@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://mehakdogra2005_db_user:MehaDBMongo@learning.oyqbcpb.mongodb.net/sudoku?appName=learning
+
+server:
+  port: 8080
